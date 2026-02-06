@@ -24,6 +24,7 @@ Demonstrar competências práticas em:
   * 📂 **arquivos_excel/**: Contém todas as pastas de trabalho do projeto
   * 📂 **img/**: Dashboard Interativo.png
   * 📂 **documentacao_tecnica/**: Relatório técnico do projeto inteiro + análise dos dados comerciais
+  * 📂 **csv/**: dados em formato csv
 
 ## 🗂️ Etapas do Desenvolvimento:
 
@@ -74,13 +75,12 @@ Demonstrar competências práticas em:
 ## ⚠️ Observação Importante
 A marca **Cristal Eco** é fictícia e foi criada exclusivamente para fins educacionais e de portfólio.
 
-## 🖼️ Modelagem e Documentação
-O coração da **ABCLog** reside na sua estrutura relacional. Abaixo, você pode conferir o diagrama que projetei para garantir a eficiência do fluxo logístico:
-
-### 🗺️ Diagrama de Entidade-Relacionamento (DER)
-![Diagrama do Projeto](./img_diagrama_do_projeto/diagrama_ABCLOG.png)
+### 🗺️ Imagens:
+![Antes - Parte 1](./img/antes_dados_cristaleco.png)
+![Depois - Parte 2](./img/depois_dados_cristaleco.png)
+![ Dashboard Interativo](./img/tabela_dinamica_cristaleco.png)
 
 ### 📄 Relatório Técnico
-> 💡 **Curiosidade:** O relatório técnico contém a análise de capacidade volumétrica e as métricas de performance das entregas.
-> [📥 Baixar Relatório em PDF](./relatorio_do_projeto/ABCLOG_Relatorio.pdf)
+> 💡Relatório Técnico do Projeto Cristal Eco:
+> [📥 Baixar Relatório em PDF](./documentacao_tecnica/relatorio_tecnico_cristaleco.pdf)
 
