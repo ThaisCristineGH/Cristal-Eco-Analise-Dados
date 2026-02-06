@@ -77,9 +77,15 @@ A marca **Cristal Eco** é fictícia e foi criada exclusivamente para fins educa
 
 ## 🗺️ Imagens
 
+### 🔹 Antes do tratamento de dados
 ![Antes - Parte 1](./img/antes_dados_cristaleco.png)
+
+### 🔹 Depois do tratamento de dados
 ![Depois - Parte 2](./img/depois_dados_cristaleco.png)
+
+### 🔹 Dashboard Interativo
 ![Dashboard Interativo](./img/tabela_dinamica_cristaleco.png)
+
 
 
 ### 📄 Relatório Técnico
