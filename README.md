@@ -73,3 +73,14 @@ Demonstrar competências práticas em:
 
 ## ⚠️ Observação Importante
 A marca **Cristal Eco** é fictícia e foi criada exclusivamente para fins educacionais e de portfólio.
+
+## 🖼️ Modelagem e Documentação
+O coração da **ABCLog** reside na sua estrutura relacional. Abaixo, você pode conferir o diagrama que projetei para garantir a eficiência do fluxo logístico:
+
+### 🗺️ Diagrama de Entidade-Relacionamento (DER)
+![Diagrama do Projeto](./img_diagrama_do_projeto/diagrama_ABCLOG.png)
+
+### 📄 Relatório Técnico
+> 💡 **Curiosidade:** O relatório técnico contém a análise de capacidade volumétrica e as métricas de performance das entregas.
+> [📥 Baixar Relatório em PDF](./relatorio_do_projeto/ABCLOG_Relatorio.pdf)
+
