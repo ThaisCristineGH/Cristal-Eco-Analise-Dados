@@ -4,7 +4,7 @@
 
 # 🌿 Projeto Cristal Eco
 
- O Projeto Cristal Eco simula um cenário real de uma empresa fictícia (desenvoldida por mim) do segmento de produtos de limpeza sustentáveis, criado com o objetivo    de aplicar, na prática, conceitos de limpeza, tratamento, análise e visualização de dados comerciais.
+ O Projeto Cristal Eco simula um cenário real de uma empresa fictícia (desenvolvida por mim) do segmento de produtos de limpeza sustentáveis, criado com o objetivo    de aplicar, na prática, conceitos de limpeza, tratamento, análise e visualização de dados comerciais.
  
  A base de dados contempla as vendas ao longo do ano de 2024, permitindo análises temporais, identificação de padrões de consumo e avaliação de desempenho comercial.  Como resultado, o projeto entrega dashboards interativos e análises de vendas, organizados de forma clara e orientada à tomada de decisão.
 
